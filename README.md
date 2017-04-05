@@ -1,1 +1,1 @@
-# vagrant-virtualbox-centos-mesos
+# Simple Apache Mesos Master-Agent setup
